@@ -13,3 +13,8 @@ Session Management
 MongoDB with Mongoose.js
 EJS
 CSS
+
+how to run?
+To run this you need to use express generator first.
+install the modules:
+passport, passport-local, passport-local-mongoose, mongoose, express-session
